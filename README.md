@@ -3,12 +3,13 @@
 <!--                                                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+
+
 <div align="center">
 
-<!-- ─── ANIMATED TYPING BANNER ─────────────────────────────────── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Ganesh+Yarajarla+%F0%9F%91%8B;AI+%26+ML+Engineer+in+the+Making+%F0%9F%A4%96;Prompt+Engineer+%7C+LLM+Explorer+%F0%9F%A7%A0;Building+Intelligent+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,50:22d3ee,100:1e3a5f&height=220&section=header&text=Yarajarla%20Ganesh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Prompt%20Engineer%20%7C%20LLM%20Explorer&descAlignY=58&descSize=18&descColor=e2e8f0&animation=fadeIn)
 
-<br/>
+</div>
 
 <!-- ─── PROFILE BADGES ──────────────────────────────────────────── -->
 ![Profile Views](https://komarev.com/ghpvc/?username=YARAJARLAGANESH&color=a855f7&style=flat-square&label=Profile+Views)
