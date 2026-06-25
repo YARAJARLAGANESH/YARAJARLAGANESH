@@ -30,7 +30,7 @@ Ganesh = {
     "currently"   : ["Prompt Engineering & LLMs", "LangChain & AI Agents", "Flutter"],
     "goal"        : "Become a Generative AI Engineer & build impactful AI solutions",
     "strengths"   : ["Consistency", "Team Leadership", "Analytical Thinking"],
-    "fun_fact"    : "I explain complex AI topics in simple words — and I love it 🎯",
+    "Hobbie"    : "I explain complex AI topics in simple words — and I love it ",
 }
 ```
 
