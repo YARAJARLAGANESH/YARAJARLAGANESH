@@ -191,7 +191,7 @@ ML model that predicts used car prices based on features like brand, year, fuel 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ganeshyarajarla.vercel.app-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://ganeshyarajarla.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-YARAJARLAGANESH-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YARAJARLAGANESH)
 [![Resume](https://img.shields.io/badge/Resume-Download-34D399?style=for-the-badge&logo=googledrive&logoColor=white)](https://ganeshyarajarla.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-youremail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshyarajarla35@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-GaneshMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshyarajarla35@gmail.com) 
 
 </div>
 
