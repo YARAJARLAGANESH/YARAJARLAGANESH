@@ -3,11 +3,9 @@
 <!--                                                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-
-
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,50:22d3ee,100:1e3a5f&height=220&section=header&text=Yarajarla%20Ganesh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Learning%20AI%20%26%20ML%20%7C%20Python%20%7C%20Exploring%20Prompt%20Engineering&descAlignY=58&descSize=18&descColor=e2e8f0&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4ade80,50:22d3ee,100:1e3a5f&height=220&section=header&text=Yarajarla%20Ganesh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Learning%20AI%2FML%20%7C%20Python%20%7C%20Exploring%20Prompt%20Engineering&descAlignY=58&descSize=18&descColor=e2e8f0&animation=fadeIn)
 
 </div>
 
