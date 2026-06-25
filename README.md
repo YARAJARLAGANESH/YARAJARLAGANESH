@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--              GANESH YARAJARLA — GitHub Profile README          -->
-<!--         Update sections marked with 👉 to keep it fresh        -->
+<!--                                                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -20,10 +20,10 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```python
-ganesh = {
+Ganesh = {
     "name"        : "Yarajarla Ganesh",
     "title"       : "AI/ML Engineer (in progress) · Prompt Engineer",
     "education"   : "B.Tech AIML — Acharya Nagarjuna University (CGPA: 9.0)",
@@ -35,15 +35,15 @@ ganesh = {
 }
 ```
 
-> 🎓 Lateral-entry B.Tech student passionate about **Generative AI**, **LLMs**, and building full-stack applications that solve real problems.  
-> 💡 I've led teams, shipped internship projects, and built everything from chatbots to ML models — always with a "ship it clean" mindset.  
-> 🤝 Open to: **AI/ML roles · Prompt Engineering · Open-source · Freelance · Research collaborations**
+>  Lateral-entry B.Tech student passionate about **Generative AI**, **LLMs**, and building full-stack applications that solve real problems.  
+>  I've led teams, shipped internship projects, and built everything from chatbots to ML models — always with a "ship it clean" mindset.  
+>  Open to: **AI/ML roles · Prompt Engineering · Open-source · Freelance · Research collaborations**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -51,25 +51,25 @@ ganesh = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 AI / ML
+### AI / ML
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_LLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-a855f7?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🌐 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🔧 Backend & Databases
+### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -78,60 +78,59 @@ ganesh = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌏 Tourism Management System
+### Tourism Management System
 A full-featured tourism platform with booking, listings, and admin management. Built and led as **Team Leader**.
 
 **Stack:** `PHP` `HTML` `CSS` `JavaScript` `MySQL`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/YARAJARLAGANESH)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/YARAJARLAGANESH/tourism-management-system)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Syllabus AI Generator
+### Syllabus AI Generator
 Generates structured, syllabus-aligned study material for students using Google Gemini LLM.
 
-**Stack:** `Python` `Gemini LLM` `Streamlit`
+**Stack:** `Python` `Gemini LLM` `n8n`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/YARAJARLAGANESH)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/YARAJARLAGANESH/Syllabus-AI)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏡 Interior Portfolio Website
+### Interior Portfolio Website
 A dynamic portfolio platform for interior designers with media uploads, project showcases, and admin panel.
 
 **Stack:** `React.js` `Node.js` `MongoDB` `Tailwind CSS` `Cloudinary`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/YARAJARLAGANESH)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/YARAJARLAGANESH/Interior-Website)
 
 </td>
 <td width="50%" valign="top">
 
-### 🚗 Car Price Prediction Model
+### Car Price Prediction Model
 ML model that predicts used car prices based on features like brand, year, fuel type, and mileage.
 
 **Stack:** `Python` `Scikit-Learn` `Pandas` `Matplotlib`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/YARAJARLAGANESH)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/YARAJARLAGANESH/car-price-predictor)
 
 </td>
 </tr>
 </table>
 
-> 👉 **Tip:** Replace the GitHub badge links above with actual repo URLs once uploaded.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -146,20 +145,20 @@ ML model that predicts used car prices based on features like brand, year, fuel 
 
 ---
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
 
 | 🏅 | Achievement |
 |----|-------------|
 | 🎓 | **B.Tech AIML** — Acharya Nagarjuna University · CGPA: **9.0** |
+| 👨‍💻 | **Team Leader** — Delivery Merchant App (Flutter) |
 | 💼 | **Python Full Stack Internship** — TechIn-It Pvt. Limited, Vijayawada (6 Months) |
 | 🤖 | **AI/ML Virtual Internship** — ShadowFox (1 Month) |
-| 🌐 | **AI Virtual Internship** — Infosys Springboard · Domain: Artificial Intelligence |
 | 👨‍💻 | **Team Leader** — Tourism Management System (College Project) |
 | 🚀 | Deployed production apps on **Vercel + Render + MongoDB Atlas** stack |
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 <div align="center">
 
@@ -173,18 +172,18 @@ ML model that predicts used car prices based on features like brand, year, fuel 
 
 ---
 
-## 🤝 Open to Collaborate On
+## Open to Collaborate On
 
-- 🤖 **AI/ML projects** — especially LLM-based tools, RAG systems, and AI agents
-- 🌐 **Full-stack web apps** with React, Node.js, or Flask
-- 📱 **Flutter mobile apps** (actively learning)
-- 🔬 **Research projects** in Generative AI or NLP
-- 💡 **Startup ideas** that have real-world impact
-- 🌍 **Open-source contributions** — always looking to give back
+-  **AI/ML projects** — especially LLM-based tools, RAG systems, and AI agents
+-  **Full-stack web apps** with React, Node.js, or Flask
+-  **Flutter mobile apps** (actively learning)
+-  **Research projects** in Generative AI or NLP
+-  **Startup ideas** that have real-world impact
+-  **Open-source contributions** — always looking to give back
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -192,9 +191,7 @@ ML model that predicts used car prices based on features like brand, year, fuel 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ganeshyarajarla.vercel.app-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://ganeshyarajarla.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-YARAJARLAGANESH-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YARAJARLAGANESH)
 [![Resume](https://img.shields.io/badge/Resume-Download-34D399?style=for-the-badge&logo=googledrive&logoColor=white)](https://ganeshyarajarla.vercel.app/)
-
-<!-- 👉 Add your email badge below once you're comfortable making it public -->
-<!-- [![Email](https://img.shields.io/badge/Email-youremail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com) -->
+[![Email](https://img.shields.io/badge/Email-youremail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshyarajarla35@gmail.com) 
 
 </div>
 
